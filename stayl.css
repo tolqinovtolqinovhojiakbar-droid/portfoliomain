@@ -52,8 +52,8 @@ li:hover {
 .nav__ul {
     display: flex;
     font-size: 20px;
-    margin-left: 203px;
-    gap: 50px;
+    margin-left: 150px;
+    gap: 40px;
     color: white;
 }
 .nav__l {
@@ -372,8 +372,8 @@ span {
     background-color: rgba(245, 245, 245, 0);
     color: rgba(149, 149, 149, 1);
 }
+
 .phone {
-    margin-left: -10px;
     border-radius: 8px;
     padding: 14px 423px 14px 24px;
     margin-bottom: 30px;
@@ -381,6 +381,7 @@ span {
     background-color: rgba(245, 245, 245, 0);
     color: rgba(149, 149, 149, 1);
 }
+
 .inp__group {
     margin-left: 10px;
     border-radius: 8px;
@@ -390,6 +391,7 @@ span {
     background-color: rgba(245, 245, 245, 0);
     color: rgba(149, 149, 149, 1);
 }
+
 .time {
     border-radius: 8px;
     padding: 14px 423px 14px 24px;
@@ -397,6 +399,7 @@ span {
     background-color: rgba(245, 245, 245, 0);
     color: rgba(149, 149, 149, 1);
 }
+
 .project {
     margin-left: 10px;
     border-radius: 8px;
@@ -405,6 +408,7 @@ span {
     background-color: rgba(245, 245, 245, 0);
     color: rgba(149, 149, 149, 1);
 }
+
 .inp__btn {
     cursor: pointer;
     margin-left: 1070px;
@@ -415,6 +419,7 @@ span {
     background-color: rgba(245, 245, 245, 0);
     color: rgba(149, 149, 149, 1);
 }
+
 .contact {
     color: white;
     text-align: center;
@@ -422,30 +427,36 @@ span {
     padding-top: 200px;
     padding-bottom: 50px;
 }
+
 .bilan {
     color: white;
     text-align: center;
     font-size: 28px;
     padding-bottom: 50px;
 }
+
 .info__foter {
     color: #e46400;
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
 }
+
 .icon__foter {
     text-align: center;
 }
+
 .foter__ul {
     text-align: center;
 }
+
 .foter__img {
     width: 200px;
     margin-left: 600px;
     padding-top: 100px;
     padding-bottom: 50px;
 }
+
 .footer__ul {
     justify-content: center;
     margin-bottom: 50px;
@@ -454,15 +465,19 @@ span {
     gap: 60px;
     font-size: 20px;
 }
+
 .nav__li:hover {
     color: #e46400;
 }
+
 .my__phone {
     color: white;
 }
+
 .my__i {
     color: white;
 }
+
 .my__inf {
     text-align: center;
     font-size: 36px;
@@ -537,6 +552,7 @@ span {
     width: 350px;
     border-radius: 20px;
 }
+
 .my__projects {
     display: flex;
     flex-wrap: wrap;
@@ -548,22 +564,26 @@ span {
     width: 350px;
     border-radius: 18px 18px 0px 0px;
 }
+
 .info__im {
     height: 213px;
     width: 350px;
     border-radius: 18px 18px 0px 0px;
 }
+
 .project__tile {
     padding-left: 30px;
     font-size: 23px;
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
 .project__is {
     padding-left: 30px;
     font-size: 18px;
     padding-bottom: 10px;
 }
+
 .project__tech {
     padding-left: 30px;
 }
@@ -603,7 +623,7 @@ span {
 .famliy__my{
     width: 550px;
     border-radius: 10px;
-    margin-left: 50px;
+    margin-left: 60px;
 }
 .famliy__my:hover{
     transform: scale(1.1);
@@ -620,7 +640,7 @@ span {
 }
 
 .famliy__info{
-    margin-left: 50px;
+    margin-left: 100px;
     padding-top: 100px;
     font-size: 28px;
     color: white;
@@ -628,6 +648,7 @@ span {
 
 .my__famliy{
     display: flex;
+    align-items: center;
 }
 
 .fanliy__my{
